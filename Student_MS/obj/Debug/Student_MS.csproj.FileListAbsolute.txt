@@ -1,0 +1,18 @@
+D:\DSA\Student_MS\Student_MS\bin\Debug\Student_MS.exe.config
+D:\DSA\Student_MS\Student_MS\bin\Debug\Student_MS.exe
+D:\DSA\Student_MS\Student_MS\bin\Debug\Student_MS.pdb
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.csproj.AssemblyReference.cache
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.Properties.Resources.resources
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.csproj.GenerateResource.cache
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.csproj.CoreCompileInputs.cache
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.exe
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.pdb
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.First.resources
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.Home.resources
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.Login.resources
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.Student.resources
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.Teacher.resources
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.User.resources
+D:\DSA\Student_MS\Student_MS\obj\Debug\Student_MS.Account.resources
+D:\DSA\Student_MS\Student_MS\bin\Debug\Student MS.mdf
+D:\DSA\Student_MS\Student_MS\bin\Debug\Student MS_log.ldf
